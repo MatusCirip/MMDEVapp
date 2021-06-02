@@ -5,6 +5,8 @@ const dataset = [
     {name: 'Javascript', proficiency: 75},
     {name: 'pyhon', proficiency: 50},
     {name: 'SQL', proficiency: 25},
+    {name: 'Python', proficiency: 0}
+    {name: 'Java', proficiency: 0}
     {name: 'SQL', proficiency: 0}
 ];
 
