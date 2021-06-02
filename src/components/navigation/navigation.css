@@ -1,0 +1,19 @@
+.dark-blue-background {
+    background-color: #0b0c10;
+}
+
+.white-text {
+    color: white;
+}
+
+.white-text :hover {
+    color: #7baed5;
+}
+
+Nav.Link {
+    color: white;
+}
+
+.navbar-toggler {
+    background-color: #1f2833;
+}

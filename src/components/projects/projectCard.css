@@ -1,0 +1,32 @@
+.project-image {
+    width: 80%;
+    position: relative;
+    left: 10%;
+}
+
+.project-btn {
+    width: 50%;
+    /*background-color: #c5c6c7;*/
+    background-color: #0b0c10;
+}
+
+.project-btn:hover {
+    color: #45a29e !important;
+}
+
+.project-card {
+    /*border: 1px solid #45a29e;*/
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+}
+
+hr.divider {
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, #1f2833, #45a29e, #1f2833);
+    /*background-image:*/
+    /*background-image: -webkit-linear-gradient(left, #f0f0f0, #45a29e, #f0f0f0);*/
+    /*background-image: -moz-linear-gradient(left, #f0f0f0, #45a29e, #f0f0f0);*/
+    /*background-image: -ms-linear-gradient(left, #f0f0f0, #45a29e, #f0f0f0);*/
+    /*background-image: -o-linear-gradient(left, #f0f0f0, #45a29e, #f0f0f0);*/
+}

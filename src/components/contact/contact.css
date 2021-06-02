@@ -1,0 +1,29 @@
+.project-input {
+    margin-bottom: 5px;
+}
+
+.contact-form-btn {
+    width: 100%;
+}
+
+.form-status {
+    background-color: #0b0c10;
+    border-radius: 12px;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+.contact-icon {
+    width: 30px;
+    background-color: white;
+    border-radius: 12px;
+    display: inline;
+}
+
+.contact-icon:hover {
+    cursor: pointer;
+}
+
+.icons-paragraph {
+    margin-bottom: 20px;
+}

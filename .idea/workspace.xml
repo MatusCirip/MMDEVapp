@@ -1,8 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5d6fa40-14eb-47dc-aed8-1517f13362b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icon-github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icon-linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/icon-mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contact/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contact/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contact/contactForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/credits-modal/credits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home-section/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home-section/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navigation/navigation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navigation/navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/projectCard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/projectCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/projectList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/skills/skill.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/skills/skill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/skills/skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1tJBuidVVS6qURTVrpFOhUYB5xQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ReactCourse/section4/react-complete-guide-code-04-react-state-events/code/07-lifting-the-state-up" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\development\MMDEVReact\code\public\assets" />
+      <recent name="C:\development\MMDEVReact\code\src\components\navigation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5d6fa40-14eb-47dc-aed8-1517f13362b3" name="Default Changelist" comment="" />
+      <created>1622477535782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622477535782</updated>
+      <workItem from="1622477538553" duration="28077000" />
+      <workItem from="1622627945140" duration="321000" />
+      <workItem from="1622634217891" duration="7007000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
