@@ -1,13 +1,14 @@
 import Skill from "./skill";
 
 const dataset = [
-    {name: 'Typescript', proficiency: 100},
-    {name: 'Javascript', proficiency: 75},
-    {name: 'pyhon', proficiency: 50},
-    {name: 'SQL', proficiency: 25},
-    {name: 'Python', proficiency: 0}
-    {name: 'Java', proficiency: 0}
-    {name: 'SQL', proficiency: 0}
+    {name: 'HTML', proficiency: 85},
+    {name: 'CSS', proficiency: 65},
+    {name: 'Typescript', proficiency: 50},
+    {name: 'Angular 8', proficiency: 50},
+    {name: 'React', proficiency: 20},
+    {name: 'Python', proficiency: 45},
+    {name: 'Java', proficiency: 15},
+    {name: 'SQL', proficiency: 25}
 ];
 
 

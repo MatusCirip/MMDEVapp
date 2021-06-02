@@ -8,10 +8,10 @@ const Navigation = () => {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="ml-auto">
-                    <Nav.Link href="#home" className='white-text'><span className='white-text'>Home</span></Nav.Link>
-                    <Nav.Link href="#skills" className='white-text'><span className='white-text'>Skills</span></Nav.Link>
-                    <Nav.Link href="#projects" className='white-text'><span className='white-text'>Projects</span></Nav.Link>
-                    <Nav.Link href="#contact" className='white-text'><span className='white-text'>Contact</span></Nav.Link>
+                    <Nav.Link href="#home" className='white-text'><span className='white-text'>O mne</span></Nav.Link>
+                    <Nav.Link href="#skills" className='white-text'><span className='white-text'>Technológie</span></Nav.Link>
+                    <Nav.Link href="#projects" className='white-text'><span className='white-text'>Projekty</span></Nav.Link>
+                    <Nav.Link href="#contact" className='white-text'><span className='white-text'>Kontakt</span></Nav.Link>
                 </Nav>
             </Navbar.Collapse>
         </Navbar>);

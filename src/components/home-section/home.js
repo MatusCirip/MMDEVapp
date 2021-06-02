@@ -2,7 +2,7 @@ import './home.css';
 
 const Home = () => {
     return (
-    <div className='container main-section'>
+    <div className='container main-section' id='home'>
         <div className='row justify-content-center'>
 
             <div className='col-12 col-md-6 order-md-1'>
