@@ -21,7 +21,7 @@ const Home = () => {
                     feugiat erat nec, pretium turpis
                 </p>
             </div>
-            <div className='col-12 col-md-6 order-md-0'>
+            <div className='col-12 col-md-6 order-md-0 white-text'>
                 obrazok
             </div>
         </div>

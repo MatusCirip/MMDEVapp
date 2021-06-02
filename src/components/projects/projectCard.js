@@ -19,7 +19,7 @@ const ProjectCard = (props) => {
                     <p>Technology: {props.data.tech}</p>
                 </div>
                 <div className={`col-12 col-sm-6 d-none d-sm-block ${+props.orientation % 2 !== 0 ? "order-0" : ""} `}>
-                    <img className='project-image' src={"assets/image1.jpg"} width='50%'/>
+                    <img className='project-image' src={props.data.img} width='50%'/>
                     <br/>
                     <br/>
                     <div className='project-image'>

@@ -4,8 +4,8 @@
     <list default="true" id="e5d6fa40-14eb-47dc-aed8-1517f13362b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/home-section/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home-section/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navigation/navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navigation/navigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/skills/skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/skills/skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/projects/projectCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/projectCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/projects/projectList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/projectList.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ReactCourse/section4/react-complete-guide-code-04-react-state-events/code/07-lifting-the-state-up" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../RecipeBook" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -85,7 +85,7 @@
       <updated>1622477535782</updated>
       <workItem from="1622477538553" duration="28077000" />
       <workItem from="1622627945140" duration="321000" />
-      <workItem from="1622634217891" duration="8092000" />
+      <workItem from="1622634217891" duration="10818000" />
     </task>
     <servers />
   </component>
